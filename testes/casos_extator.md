@@ -1,4 +1,4 @@
-## Teste 2
+## Teste 3
 
 _Input:_
 
@@ -18,9 +18,9 @@ Resposta:
 {"cargo": "Estagiário de Dados", "empresa": "John Deere", "local": "Indaiatuba", "modalidade": "presencial", "salario": "R$ 1.800", "requisitos": ["Power BI", "Excel"], "beneficios": "["Recesso remunerado", "Wellhub"]}
 Agora extraia desta vaga:
 <vaga>
-https://carreiras.itau.com.br/vaga/sao-paulo/anl-engenharia-ti-jr-dados/35299/101004728032
+https://bradesco.csod.com/ux/ats/careersite/1/home/requisition/94053?c=bradesco&cfdd[0][id]=634&cfdd[0][options][0]=1429
 </vaga>
 
 _Output:_
 
-{“cargo”: “ANL ENGENHARIA TI JR - DADOS”, “empresa”: “Itaú Unibanco”, “local”: “São Paulo, Brasil (Jabaquara/SP)”, “modalidade”: “hibrido”, “salario”: null, “requisitos”: [“Ensino superior completo em áreas de tecnologia”, “Conhecimento em Python”, “Conhecimento em AWS”, “Conhecimento em SQL”, “Experiência com Git e GitHub”, “Conhecimentos de lógica de programação”, “Interesse em práticas modernas de engenharia de software e desenvolvimento em nuvem”], “beneficios”: [“Vale-Transporte”, “Vale-Refeição / Vale-Alimentação”, “Plano médico (Fundação Saúde Itaú ou Central Nacional Unimed)”, “Plano odontológico (Odontoprev ou Interodonto)”, “Seguro de Vida”, “PLR - Participação nos Lucros e Resultados”, “Previdência privada”, “Descontos exclusivos em produtos financeiros”, “Licença maternidade e paternidade estendida”, “Auxílio Creche / Babá”, “Incentivo a estudos”, “Wellhub ou TotalPass”, “Acesso aos Clubes de Lazer Itaú”]}
+{“cargo”: “Data Scientist II”, “empresa”: “Bradesco”, “local”: null, “modalidade”: null, “salario”: null, “requisitos”: null, “beneficios”: null}
