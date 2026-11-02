@@ -1,4 +1,4 @@
-## Teste 4
+## Teste 5
 
 _Input:_
 
@@ -18,109 +18,68 @@ Resposta:
 {"cargo": "Estagiário de Dados", "empresa": "John Deere", "local": "Indaiatuba", "modalidade": "presencial", "salario": "R$ 1.800", "requisitos": ["Power BI", "Excel"], "beneficios": "["Recesso remunerado", "Wellhub"]}
 Agora extraia desta vaga:
 <vaga>
-Sobre o Bradesco
+Nosso Modo de Fazer no Time:
+Transforme sua carreira com o iFood! Somos uma empresa brasileira de tecnologia referência na América Latina. Por meio de soluções inovadoras, conectamos milhares de restaurantes a milhões de consumidores diariamente com uma média de 100 milhões de pedidos mensais. Além do delivery de comida, também somos Mercado, Farmácia e Pet. Temos também o iFood Pago, nossa Fintech, que engloba o iFood Benefícios, o vale alimentação e refeição do iFood e o próprio iFood Pago, o banco do restaurante. Junte-se a nós e faça parte de uma equipe que está sempre à frente com tecnologia de ponta e inovação constante.
 
-A gente acredita no poder da confiança. Confiança que aproxima, orienta e transforma a vida das pessoas no dia a dia. Entrar no Bradesco é fazer parte de um momento real de transformação. Um ambiente que combina a solidez de uma história construída ao longo de décadas com a evolução constante de quem está sempre olhando para frente. Aqui, você encontra espaço para aprender, crescer e assumir protagonismo na sua trajetória, com apoio, estrutura e oportunidades que acompanham o seu desenvolvimento. Mais do que trabalhar em uma grande instituição, é sobre fazer parte de um time que impacta milhões de pessoas, contribui para o desenvolvimento do país e constrói, todos os dias, um futuro mais acessível e sustentável para a sociedade.
+Seu Cardápio Diário:
+O Data Security Specialist é um profissional técnico responsável pela execução e operação dos controles de segurança de dados corporativos e de produção do iFood. Essa posição atua na interseção entre engenharia de segurança, proteção de dados e execução técnica — implementando controles, investigando incidentes e operando as ferramentas que protegem os ativos de dados do iFood.O Data Security Specialist executa as operações de segurança de dados, impulsiona a adoção de AI nos fluxos de trabalho diários de segurança e garante que as capacidades de proteção de dados acompanhem o crescimento do iFood. É uma posição de contribuidor individual que exige experiência prática comprovada em engenharia de segurança de dados, com capacidade de atuar tanto no ambiente corporativo quanto no de produção.
 
-Sobre a área
+Segurança de Dados Corporativos
+Operar e evoluir os controles de DLP (Data Loss Prevention) e ZTNA (Zero Trust Network Access) para endpoints, aplicações em cloud e canais de comunicação — implementando políticas, ajustando regras e executando as prioridades trimestrais.
+Implementar e fazer cumprir políticas de classificação de dados e procedimentos de tratamento para usuários internos e terceiros, garantindo alinhamento com LGPD, GDPR e requisitos regulatórios (BACEN, PCI-DSS, entre outros).
+Configurar e manter os controles de segurança para plataformas corporativas de SaaS: Databricks, Salesforce, Google Workspace, outras plataformas e ferramentas emergentes baseadas em AI — estabelecendo baselines de hardening, controles de acesso e governança de configuração.
+Implementar e fazer cumprir políticas de Document Retention & Disposal — estabelecendo cronogramas de retenção, procedimentos de descarte e mecanismos automatizados de aplicação.
+Executar o programa de insider threat: ajustar regras de behavioral analytics, conduzir cadências de análise de anomalias e coordenar com HR e Legal os casos de risco elevado.
+Gerenciar políticas de device posture e a aplicação de ZTNA, garantindo o acesso de dispositivos em conformidade em todo o ambiente corporativo.
+Segurança de Dados de Produção
+Conduzir revisões de segurança da arquitetura de dados de produção: avaliar integrações de dados entre sistemas internos, parceiros e clientes, identificando riscos em APIs, pipelines de ETL e padrões de transferência de arquivos.
+Executar o workstream de Data Security no processo de Third-Party Risk Management (TPRM), atuando de forma cross-functional com a equipe de IT Risk e contribuindo continuamente para a melhoria dos security review gates, dos requisitos contratuais de segurança e do monitoramento contínuo dos arranjos de troca de dados com terceiros.
+Promover security-by-design nas equipes de engenharia e dados: incorporar requisitos de proteção de dados aos padrões de desenho de integrações, aos frameworks de governança de APIs e aos controles de data residency.
+Garantir que data residency, criptografia em trânsito e em repouso e modelos de controle de acesso atendam às obrigações regulatórias e contratuais em todos os ambientes de produção.
+Apoiar os programas de conformidade regulatória (LGPD, GDPR, PCI-DSS) relacionados à proteção de dados, atuando como ponto de contato técnico de Data Security para as equipes de Legal, Compliance e Audit.
+Adoção de AI e Resultados Mensuráveis
+Impulsionar a adoção de AI nos fluxos de trabalho de Data Security: implementar ferramentas de AI para detecção de padrões anômalos de dados, classificação automatizada de dados, ajuste de políticas de DLP e aceleração de investigações — com melhorias mensuráveis na velocidade de detecção, na redução de falsos positivos e na produtividade dos analistas.
+Contribuir para o workstream de Data Security para AI Security, atuando de forma cross-functional com a equipe de AI Security para melhorar continuamente a governança e definir requisitos de proteção de dados para ferramentas de AI, incluindo casos de uso aprovados, tratamento de dados sensíveis em prompts, controles de acesso, monitoramento e padrões de adoção.
+Acompanhar e reportar os resultados impulsionados por AI: quantificar o tempo economizado, os riscos detectados mais cedo e as melhorias na precisão da classificação atribuíveis às ferramentas de AI.
+Colaboração Cross-functional e Resposta a Incidentes
+Atuar como referência técnica de Data Security para as equipes adjacentes: traduzir cenários complexos de riscos relacionados a dados em atualizações claras e contextualizadas pelo impacto no negócio para o Data Security Manager e para os times de segurança.
+Construir e manter o dashboard operacional de Data Security: tendências de risco, taxas de violações de políticas, SLAs de remediação, métricas de adoção de AI e status operacional.
+Participar de iniciativas cross-functional de Data Security: coordenar com Legal, Product, Engineering e IT para equilibrar requisitos de segurança e velocidade do negócio — encontrando o caminho seguro que viabilize a entrega de produtos.
+Gerenciar solicitações de exceção de Data Security: avaliar exceções baseadas em risco às políticas de segurança, documentar recomendações e acompanhar o ciclo de vida das exceções.
+Atuar na resposta a incidentes como referência técnica de Data Security: conduzir a frente de investigação específica de dados durante incidentes de grande impacto, coordenar com o CSIRT e comunicar o impacto do risco relacionado a dados ao Data Security Manager.
+Operação Técnica de Programas
+Executar o roadmap técnico de Data Security: traduzir as metas estratégicas em tarefas operacionais, gerenciar o acompanhamento de dependências e reportar o progresso ao Data Security Manager.
+Conduzir iniciativas de Sensitive Data Mapping: executar a descoberta, classificação e catalogação cross-functional de dados nos ambientes corporativos e de produção.
+Construir e manter métricas de Data Security: índices de exposição a riscos, tendências de violações de políticas, taxas de encerramento de alertas de DLP, SLAs de remediação e velocidade operacional.
+Documentar e manter runbooks, playbooks e procedimentos operacionais padrão para as operações de Data Security.
+ 
 
- Gerenciamento de Riscos Financeiros: Responsável pelo monitoramento e controle dos riscos financeiros da instituição, incluindo mercado, crédito, liquidez e capital. Desenvolve modelos, métricas e ferramentas para mensuração e acompanhamento desses riscos, apoiando a tomada de decisão e a gestão eficiente das exposições. Contribui para a solidez financeira e a sustentabilidade do banco.
+Ingredientes Que Buscamos:
+Experiência comprovada como Data Security Specialist, Analyst ou Engineer — com histórico de responsabilidade técnica por um domínio de Data Security.
+Forte experiência em proteção de dados, DLP, ZTNA e governança de segurança da informação.
+Sólida compreensão dos princípios de arquitetura Zero Trust e de sua implementação prática: ZTNA, conditional access, device posture e identity-based segmentation.
+Conhecimento profundo de hardening de segurança de SaaS corporativo: Google Workspace, Salesforce, Databricks, outras plataformas e plataformas emergentes baseadas em AI.
+Conhecimento de conceitos de arquitetura de dados: APIs, pipelines de ETL, data warehouses, plataformas de dados em cloud e padrões de troca de dados de produção.
+Familiaridade com frameworks regulatórios: LGPD, GDPR, PCI-DSS e requisitos regulatórios do BACEN e do PROUF.
+Experiência prática com ferramentas de AI para Data Security: detecção de anomalias, classificação automatizada, ajuste de DLP ou aceleração de investigações — com resultados tangíveis e mensuráveis documentados.
+Sólidas habilidades analíticas e investigativas: capacidade de rastrear um vazamento de dados, desde o sinal até a causa-raiz, e traduzir as descobertas em recomendações sistêmicas.
+Capacidade de colaboração cross-functional: aptidão para conduzir resultados técnicos em colaboração com Legal, Engineering, Product e IT, equilibrando requisitos de segurança e velocidade do negócio.
+Habilidade de documentação e criação de runbooks, playbooks e procedimentos operacionais para Data Security.
+Inglês avançado (obrigatório).
+ 
+Para Realçar o Sabor: 
+Experiência com plataformas SASE (Netskope, Zscaler ou similares) e ferramentas de DSPM (Netskope, Cyera, Wiz ou similares).
+Experiência em data engineering ou analytics — compreensão dos fluxos de dados por dentro, incluindo arquitetura de pipelines, data warehousing e plataformas de dados em tempo real.
+Experiência na adoção de AI em Data Security: implementação de ferramentas de AI para operações de segurança, mensuração de ganhos de produtividade e iteração das estratégias de adoção.
+Certificações: CISM, CDPSE, CISSP ou equivalente.
+Experiência em um setor regulado (fintech, banking, payments, health tech), com exposição prática à conformidade regulatória.
+ 
 
-Como será seu dia a dia?
+ 
 
-Como Data Scientist II, você atuará na área de Dados e suas principais atividades serão: 
-
-·       Realizar análises técnicas para suporte à tomada de decisão executiva, envolvendo modelos de risco de crédito, políticas de crédito, rentabilidade e pricing;
-
-·       Identificar oportunidades de otimização do custo de crédito por meio da revisão de parâmetros, premissas e metodologias de Perda Esperada (PD, LGD e EAD);
-
-·       Desenvolver estudos analíticos e simulações de impacto financeiro para suportar decisões estratégicas relacionadas à concessão e gestão do crédito
-
-·       Monitorar indicadores de desempenho das carteiras e identificar desvios, tendências e oportunidades de melhoria;
-
-·       Elaborar apresentações executivas e recomendações com foco na geração de valor e mitigação de riscos;
-
-·       Participar da avaliação de novas estratégias de crédito, apoiando análises de viabilidade, riscos e impactos em resultados;
-
-·       Interagir com áreas de Negócios, Produtos, Modelagem, Cobrança e Finanças para construção de soluções integradas.
-
-Modelo de trabalho
-
-Híbrido - 2x Presencial
-
-Unidade: Osasco/SP
-
-Perfil que buscamos
-
-Valorizamos quem entende o cliente em profundidade, trabalha em parceria e transforma conhecimento em entregas com impacto. Profissionais com senso de dono, consistência na execução e foco em resultado, que evoluem continuamente, compartilham aprendizados e usam tecnologia para transformar desafios em soluções relevantes para o negócio.
-
-Requisitos
-
-·       Ensino superior completo em Estatística, Matemática, Engenharias, Ciência de Dados, Economia ou áreas correlatas; 
-
-·       Conhecimento em modelos de Credit Score, Behavior Score, Collection Score e Pricing; 
-
-·       Vivência com grandes volumes de dados e construção de análises para suporte à tomada de decisão; 
-
-·       Conhecimento em métricas e indicadores de risco de crédito; 
-
-·       Experiência com Modelos de Perda Esperada (Resolução CMN 4.966 e IFRS 9); 
-
-·       Proficiência em Databricks; 
-
-·       Capacidade de traduzir análises complexas em recomendações executivas e orientadas a negócio. 
-
-Será um diferencial se você tiver:
-
-·       Experiência na criação de modelo do zero;
-
-·       Vivência em modelo de perda esperada (4966/IFRS9).
-
-O que você encontra aqui
-
-Cuidar de você
-
-·        Plano de saúde e odontológico
-
-·        Seguro de vida
-
-·        Viva Bem: programa de saúde, bem-estar e qualidade de vida
-
-·        TotalPass
-
-Crescer com você
-
-·        Universidade corporativa Bradesco (Unibrad)
-
-·        Parcerias educacionais
-
-Segurança para o seu futuro
-
-·        Participação nos lucros ou Bônus (conforme a elegibilidade de cargo)
-
-·        Previdência privada
-
-·        Condições especiais em produtos e serviços
-
-·        Isenção de Tarifas: condições especiais em diversos produtos e serviços
-
-Apoio à sua vida e à sua família
-
-·        Vale alimentação e refeição
-
-·        13ª cesta alimentação
-
-·        Auxílio creche ou babá
-
-·        Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
-
-·        Licença Paternidade estendida de 20 dias
-
-·        Vale transporte opcional
-
-Tudo pensado para apoiar sua jornada de crescimento com equilíbrio, segurança e oportunidade.
+Buscamos uma pessoa apaixonada por segurança em tecnologia, que esteja sempre em busca de novos aprendizados e que goste de desafios. Se você se identifica com este perfil, adoraríamos conhecer você!
 </vaga>
 
 _Output:_
 
-{“cargo”: “Data Scientist II”, “empresa”: “Bradesco”, “local”: “Osasco/SP”, “modalidade”: “hibrido”, “salario”: null, “requisitos”: [“Ensino superior completo em Estatística, Matemática, Engenharias, Ciência de Dados, Economia ou áreas correlatas”, “Conhecimento em modelos de Credit Score, Behavior Score, Collection Score e Pricing”, “Vivência com grandes volumes de dados e construção de análises para suporte à tomada de decisão”, “Conhecimento em métricas e indicadores de risco de crédito”, “Experiência com Modelos de Perda Esperada (Resolução CMN 4.966 e IFRS 9)”, “Proficiência em Databricks”, “Capacidade de traduzir análises complexas em recomendações executivas e orientadas a negócio”], “beneficios”: [“Plano de saúde e odontológico”, “Seguro de vida”, “Viva Bem: programa de saúde, bem-estar e qualidade de vida”, “TotalPass”, “Universidade corporativa Bradesco (Unibrad)”, “Parcerias educacionais”, “Participação nos lucros ou Bônus (conforme a elegibilidade de cargo)”, “Previdência privada”, “Condições especiais em produtos e serviços”, “Isenção de Tarifas”, “Vale alimentação e refeição”, “13ª cesta alimentação”, “Auxílio creche ou babá”, “Licença Maternidade de 180 dias”, “Licença Paternidade estendida de 20 dias”, “Vale transporte opcional”]}
+{“cargo”: “Data Security Specialist”, “empresa”: “iFood”, “local”: null, “modalidade”: null, “salario”: null, “requisitos”: [“Experiência comprovada como Data Security Specialist, Analyst ou Engineer”, “Forte experiência em proteção de dados, DLP, ZTNA e governança de segurança da informação”, “Sólida compreensão de arquitetura Zero Trust: ZTNA, conditional access, device posture e identity-based segmentation”, “Conhecimento profundo de hardening de segurança de SaaS corporativo: Google Workspace, Salesforce, Databricks e plataformas baseadas em AI”, “Conhecimento de arquitetura de dados: APIs, pipelines de ETL, data warehouses, plataformas de dados em cloud e padrões de troca de dados de produção”, “Familiaridade com LGPD, GDPR, PCI-DSS e requisitos regulatórios do BACEN e do PROUF”, “Experiência prática com ferramentas de AI para Data Security, com resultados mensuráveis documentados”, “Sólidas habilidades analíticas e investigativas”, “Capacidade de colaboração cross-functional com Legal, Engineering, Product e IT”, “Habilidade de documentação e criação de runbooks, playbooks e procedimentos operacionais”, “Inglês avançado (obrigatório)”], “beneficios”: null}
