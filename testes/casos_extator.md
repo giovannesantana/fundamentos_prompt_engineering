@@ -18,68 +18,68 @@ Resposta:
 {"cargo": "Estagiário de Dados", "empresa": "John Deere", "local": "Indaiatuba", "modalidade": "presencial", "salario": "R$ 1.800", "requisitos": ["Power BI", "Excel"], "beneficios": "["Recesso remunerado", "Wellhub"]}
 Agora extraia desta vaga:
 <vaga>
-Nosso Modo de Fazer no Time:
-Transforme sua carreira com o iFood! Somos uma empresa brasileira de tecnologia referência na América Latina. Por meio de soluções inovadoras, conectamos milhares de restaurantes a milhões de consumidores diariamente com uma média de 100 milhões de pedidos mensais. Além do delivery de comida, também somos Mercado, Farmácia e Pet. Temos também o iFood Pago, nossa Fintech, que engloba o iFood Benefícios, o vale alimentação e refeição do iFood e o próprio iFood Pago, o banco do restaurante. Junte-se a nós e faça parte de uma equipe que está sempre à frente com tecnologia de ponta e inovação constante.
+Locations: São Paulo | Rio de Janeiro
 
-Seu Cardápio Diário:
-O Data Security Specialist é um profissional técnico responsável pela execução e operação dos controles de segurança de dados corporativos e de produção do iFood. Essa posição atua na interseção entre engenharia de segurança, proteção de dados e execução técnica — implementando controles, investigando incidentes e operando as ferramentas que protegem os ativos de dados do iFood.O Data Security Specialist executa as operações de segurança de dados, impulsiona a adoção de AI nos fluxos de trabalho diários de segurança e garante que as capacidades de proteção de dados acompanhem o crescimento do iFood. É uma posição de contribuidor individual que exige experiência prática comprovada em engenharia de segurança de dados, com capacidade de atuar tanto no ambiente corporativo quanto no de produção.
+Who We Are
 
-Segurança de Dados Corporativos
-Operar e evoluir os controles de DLP (Data Loss Prevention) e ZTNA (Zero Trust Network Access) para endpoints, aplicações em cloud e canais de comunicação — implementando políticas, ajustando regras e executando as prioridades trimestrais.
-Implementar e fazer cumprir políticas de classificação de dados e procedimentos de tratamento para usuários internos e terceiros, garantindo alinhamento com LGPD, GDPR e requisitos regulatórios (BACEN, PCI-DSS, entre outros).
-Configurar e manter os controles de segurança para plataformas corporativas de SaaS: Databricks, Salesforce, Google Workspace, outras plataformas e ferramentas emergentes baseadas em AI — estabelecendo baselines de hardening, controles de acesso e governança de configuração.
-Implementar e fazer cumprir políticas de Document Retention & Disposal — estabelecendo cronogramas de retenção, procedimentos de descarte e mecanismos automatizados de aplicação.
-Executar o programa de insider threat: ajustar regras de behavioral analytics, conduzir cadências de análise de anomalias e coordenar com HR e Legal os casos de risco elevado.
-Gerenciar políticas de device posture e a aplicação de ZTNA, garantindo o acesso de dispositivos em conformidade em todo o ambiente corporativo.
-Segurança de Dados de Produção
-Conduzir revisões de segurança da arquitetura de dados de produção: avaliar integrações de dados entre sistemas internos, parceiros e clientes, identificando riscos em APIs, pipelines de ETL e padrões de transferência de arquivos.
-Executar o workstream de Data Security no processo de Third-Party Risk Management (TPRM), atuando de forma cross-functional com a equipe de IT Risk e contribuindo continuamente para a melhoria dos security review gates, dos requisitos contratuais de segurança e do monitoramento contínuo dos arranjos de troca de dados com terceiros.
-Promover security-by-design nas equipes de engenharia e dados: incorporar requisitos de proteção de dados aos padrões de desenho de integrações, aos frameworks de governança de APIs e aos controles de data residency.
-Garantir que data residency, criptografia em trânsito e em repouso e modelos de controle de acesso atendam às obrigações regulatórias e contratuais em todos os ambientes de produção.
-Apoiar os programas de conformidade regulatória (LGPD, GDPR, PCI-DSS) relacionados à proteção de dados, atuando como ponto de contato técnico de Data Security para as equipes de Legal, Compliance e Audit.
-Adoção de AI e Resultados Mensuráveis
-Impulsionar a adoção de AI nos fluxos de trabalho de Data Security: implementar ferramentas de AI para detecção de padrões anômalos de dados, classificação automatizada de dados, ajuste de políticas de DLP e aceleração de investigações — com melhorias mensuráveis na velocidade de detecção, na redução de falsos positivos e na produtividade dos analistas.
-Contribuir para o workstream de Data Security para AI Security, atuando de forma cross-functional com a equipe de AI Security para melhorar continuamente a governança e definir requisitos de proteção de dados para ferramentas de AI, incluindo casos de uso aprovados, tratamento de dados sensíveis em prompts, controles de acesso, monitoramento e padrões de adoção.
-Acompanhar e reportar os resultados impulsionados por AI: quantificar o tempo economizado, os riscos detectados mais cedo e as melhorias na precisão da classificação atribuíveis às ferramentas de AI.
-Colaboração Cross-functional e Resposta a Incidentes
-Atuar como referência técnica de Data Security para as equipes adjacentes: traduzir cenários complexos de riscos relacionados a dados em atualizações claras e contextualizadas pelo impacto no negócio para o Data Security Manager e para os times de segurança.
-Construir e manter o dashboard operacional de Data Security: tendências de risco, taxas de violações de políticas, SLAs de remediação, métricas de adoção de AI e status operacional.
-Participar de iniciativas cross-functional de Data Security: coordenar com Legal, Product, Engineering e IT para equilibrar requisitos de segurança e velocidade do negócio — encontrando o caminho seguro que viabilize a entrega de produtos.
-Gerenciar solicitações de exceção de Data Security: avaliar exceções baseadas em risco às políticas de segurança, documentar recomendações e acompanhar o ciclo de vida das exceções.
-Atuar na resposta a incidentes como referência técnica de Data Security: conduzir a frente de investigação específica de dados durante incidentes de grande impacto, coordenar com o CSIRT e comunicar o impacto do risco relacionado a dados ao Data Security Manager.
-Operação Técnica de Programas
-Executar o roadmap técnico de Data Security: traduzir as metas estratégicas em tarefas operacionais, gerenciar o acompanhamento de dependências e reportar o progresso ao Data Security Manager.
-Conduzir iniciativas de Sensitive Data Mapping: executar a descoberta, classificação e catalogação cross-functional de dados nos ambientes corporativos e de produção.
-Construir e manter métricas de Data Security: índices de exposição a riscos, tendências de violações de políticas, taxas de encerramento de alertas de DLP, SLAs de remediação e velocidade operacional.
-Documentar e manter runbooks, playbooks e procedimentos operacionais padrão para as operações de Data Security.
- 
+Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact.
 
-Ingredientes Que Buscamos:
-Experiência comprovada como Data Security Specialist, Analyst ou Engineer — com histórico de responsabilidade técnica por um domínio de Data Security.
-Forte experiência em proteção de dados, DLP, ZTNA e governança de segurança da informação.
-Sólida compreensão dos princípios de arquitetura Zero Trust e de sua implementação prática: ZTNA, conditional access, device posture e identity-based segmentation.
-Conhecimento profundo de hardening de segurança de SaaS corporativo: Google Workspace, Salesforce, Databricks, outras plataformas e plataformas emergentes baseadas em AI.
-Conhecimento de conceitos de arquitetura de dados: APIs, pipelines de ETL, data warehouses, plataformas de dados em cloud e padrões de troca de dados de produção.
-Familiaridade com frameworks regulatórios: LGPD, GDPR, PCI-DSS e requisitos regulatórios do BACEN e do PROUF.
-Experiência prática com ferramentas de AI para Data Security: detecção de anomalias, classificação automatizada, ajuste de DLP ou aceleração de investigações — com resultados tangíveis e mensuráveis documentados.
-Sólidas habilidades analíticas e investigativas: capacidade de rastrear um vazamento de dados, desde o sinal até a causa-raiz, e traduzir as descobertas em recomendações sistêmicas.
-Capacidade de colaboração cross-functional: aptidão para conduzir resultados técnicos em colaboração com Legal, Engineering, Product e IT, equilibrando requisitos de segurança e velocidade do negócio.
-Habilidade de documentação e criação de runbooks, playbooks e procedimentos operacionais para Data Security.
-Inglês avançado (obrigatório).
- 
-Para Realçar o Sabor: 
-Experiência com plataformas SASE (Netskope, Zscaler ou similares) e ferramentas de DSPM (Netskope, Cyera, Wiz ou similares).
-Experiência em data engineering ou analytics — compreensão dos fluxos de dados por dentro, incluindo arquitetura de pipelines, data warehousing e plataformas de dados em tempo real.
-Experiência na adoção de AI em Data Security: implementação de ferramentas de AI para operações de segurança, mensuração de ganhos de produtividade e iteração das estratégias de adoção.
-Certificações: CISM, CDPSE, CISSP ou equivalente.
-Experiência em um setor regulado (fintech, banking, payments, health tech), com exposição prática à conformidade regulatória.
- 
+To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive.
+
+
+We Are BCG X
 
  
 
-Buscamos uma pessoa apaixonada por segurança em tecnologia, que esteja sempre em busca de novos aprendizados e que goste de desafios. Se você se identifica com este perfil, adoraríamos conhecer você!
+We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions.
+
+
+What You'll Do
+
+As a part of BCG’s X Delivery team, you will play a pivotal role in bridging technology and strategy. You will collaborate with premier consulting teams around the world, applying your software development expertise across a variety of ambitious and ground-breaking international projects. You will be instrumental in advancing BCG's Consulting and BCG X teams by providing critical software development insights and speeding up project execution.
+
+ 
+
+As a Software Engineer, your role involves close collaboration with consulting teams to address complex and diverse technological challenges. You will apply your expertise in software development methodologies to add value to BCG's Consulting & BCG X teams and Practice Areas.
+
+ 
+
+Each project offers a unique opportunity to showcase your skills and make a significant impact within BCG and our esteemed clientele.
+
+
+
+What You'll Bring
+
+We are seeking technologically adept engineers who bring strong experience and diverse skills to our dynamic team. This role is an outstanding opportunity for someone who is passionate about software development and embraces opportunities to learn and make an impact in a fast-paced, innovative environment. If you're driven by technology and ready for impactful challenges, our BCG X Delivery team could be a great match!
+
+ 
+
+Technical Skills - Knowledge and Experience with: 
+
+Coding Skills: Strong coding skills and proficiency in programming languages such as Python, Java, Kotlin, Node.js, Go, Ruby, Rust, C#, etc.. Experience with multiple languages preferred.
+Web Development Expertise: Experience with Typescript or JavaScript frameworks such as React, Next.js, and Angular. Demonstrated projects or work experience are helpful.
+API Development: Solid experience in creating APIs using REST or GraphQL.
+Cloud Computing: Familiar with AWS, Azure, GCP, and capable of effective deployment on these platforms.
+Database Management: Skilled in both relational and NoSQL databases, including MongoDB, Neo4j, and Redis.
+Additional Skills:
+Experience with Spark, Hadoop, or similar systems.
+Practical knowledge of Docker, Kubernetes, or similar technologies.
+Familiarity with CI/CD tools like CircleCI, Jenkins, etc.
+Tech curiosity with interest and exposure to technologies like AR/VR, IoT, AI, Blockchain.
+Knowledge of infrastructure as code practices using Terraform, Chef, Puppet, or Ansible.
+Job requirements:
+Bachelor's / Master's in Computer Science or a related field
+Fluency in Portuguese and English
+Proven background in end-to-end application development, preferably in a commercial or consulting environment.
+Active contributions to open-source projects or technical communities are highly valued.
+Core Attributes:
+Software Development: Demonstrated experience in developing, testing, and deploying robust software. Examples of past projects or contributions are advantageous.
+Full Lifecycle Experience: Active involvement in the complete software development lifecycle, showcasing skills from idea generation to deployment.
+Efficiency Optimization: Experience in optimizing software for performance and efficiency.
+Dynamic Adaptability: Ability to thrive in a fast-paced, client-facing environment. Experience in client interactions for product development is a plus.
+Collaborative Skills: A track record of working effectively in team settings, sharing ideas, and co-developing solutions.
 </vaga>
 
 _Output:_
 
-{“cargo”: “Data Security Specialist”, “empresa”: “iFood”, “local”: null, “modalidade”: null, “salario”: null, “requisitos”: [“Experiência comprovada como Data Security Specialist, Analyst ou Engineer”, “Forte experiência em proteção de dados, DLP, ZTNA e governança de segurança da informação”, “Sólida compreensão de arquitetura Zero Trust: ZTNA, conditional access, device posture e identity-based segmentation”, “Conhecimento profundo de hardening de segurança de SaaS corporativo: Google Workspace, Salesforce, Databricks e plataformas baseadas em AI”, “Conhecimento de arquitetura de dados: APIs, pipelines de ETL, data warehouses, plataformas de dados em cloud e padrões de troca de dados de produção”, “Familiaridade com LGPD, GDPR, PCI-DSS e requisitos regulatórios do BACEN e do PROUF”, “Experiência prática com ferramentas de AI para Data Security, com resultados mensuráveis documentados”, “Sólidas habilidades analíticas e investigativas”, “Capacidade de colaboração cross-functional com Legal, Engineering, Product e IT”, “Habilidade de documentação e criação de runbooks, playbooks e procedimentos operacionais”, “Inglês avançado (obrigatório)”], “beneficios”: null}
+{“cargo”: “Software Engineer (BCG X Delivery)”, “empresa”: “Boston Consulting Group (BCG)”, “local”: “São Paulo | Rio de Janeiro”, “modalidade”: null, “salario”: null, “requisitos”: [“Bacharelado/Mestrado em Ciência da Computação ou área relacionada”, “Fluência em português e inglês”, “Sólida experiência em programação (Python, Java, Kotlin, Node.js, Go, Ruby, Rust, C#, etc.)”, “Experiência com Typescript ou JavaScript e frameworks como React, Next.js e Angular”, “Experiência em criação de APIs REST ou GraphQL”, “Familiaridade com AWS, Azure, GCP”, “Experiência com bancos relacionais e NoSQL (MongoDB, Neo4j, Redis)”, “Experiência comprovada em desenvolvimento de aplicações end-to-end, de preferência em ambiente comercial ou de consultoria”, “Experiência no ciclo completo de desenvolvimento de software”, “Experiência em otimização de software para performance e eficiência”, “Capacidade de atuar em ambiente dinâmico e voltado ao cliente”, “Habilidade de trabalho colaborativo em equipe”], “beneficios”: null}
