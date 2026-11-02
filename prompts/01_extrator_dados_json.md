@@ -1,74 +1,27 @@
-## v1 (ingênuo)
+## v2
 
 Input:
-Extraia as informações importantes desta vaga:
-
+Você é um assistente que extrai dados de anúncios de vaga.
+Leia o anúncio dentro das tags <vaga> e extraia os campos abaixo.
+Regras:
+- Responda APENAS com um JSON válido, sem texto antes ou depois.
+- Use exatamente estes campos: cargo, empresa, local, modalidade, salario, requisitos, benefícios.
+- "modalidade" deve ser um destes campos: "presencial", "hibrido", "remoto" ou null.
+- "requisitos" e "beneficios" são listas de texto curtos.
+- Se uma informação NÃO estiver  no texto, use null. Nunca invente.
+Exemplo:
+<vaga>
+Estagiário de Dados John Deere (Indaiatuba, presencial). Bolsa R$1.800. Requisitos: Power BI e Excel. Benefícios: Recesso remunerado e Wellhub.
+</vaga>
+Resposta:
+{"cargo": "Estagiário de Dados", "empresa": "John Deere", "local": "Indaiatuba", "modalidade": "presencial", "salario": "R$ 1.800", "requisitos": ["Power BI", "Excel"], "beneficios": "["Recesso remunerado", "Wellhub"]}
+Agora extraia desta vaga:
+<vaga>
 https://carreiras.itau.com.br/vaga/sao-paulo/anl-engenharia-ti-jr-dados/35299/101004728032
+</vaga>
 
 Output:
-ANL Engenharia TI Jr – Dados (Itaú Unibanco)
+{“cargo”: “ANL ENGENHARIA TI JR - DADOS”, “empresa”: “Itaú Unibanco”, “local”: “São Paulo, Brasil (Jabaquara/SP)”, “modalidade”: “hibrido”, “salario”: null, “requisitos”: [“Ensino superior completo em áreas de tecnologia”, “Conhecimento em Python”, “Conhecimento em AWS”, “Conhecimento em SQL”, “Experiência com Git e GitHub”, “Conhecimentos de lógica de programação”, “Interesse em práticas modernas de engenharia de software e desenvolvimento em nuvem”], “beneficios”: [“Vale-Transporte”, “Vale-Refeição / Vale-Alimentação”, “Plano médico (Fundação Saúde Itaú ou Central Nacional Unimed)”, “Plano odontológico (Odontoprev ou Interodonto)”, “Seguro de Vida”, “PLR - Participação nos Lucros e Resultados”, “Previdência privada”, “Descontos exclusivos em produtos financeiros”, “Licença maternidade e paternidade estendida”, “Auxílio Creche / Babá”, “Incentivo a estudos”, “Wellhub ou TotalPass”, “Acesso aos Clubes de Lazer Itaú”]}
 
-Resumo
-
-Cargo: Pessoa Engenheira de Software Backend Júnior, na comunidade de Dados
-Empresa: Itaú Unibanco
-Área: Tecnologia (RT de Gestão de Dados)
-Local: São Paulo, com base em Jabaquara
-Modelo de trabalho: híbrido sem escala, com 8 dias presenciais por mês
-Candidatura: Portal Gupy
-Prazo: não informado na página
-
-Contexto do time
-A equipe está construindo a nova experiência do catálogo corporativo de dados com o Atlan, criando produtos digitais para consumo e governança de dados em todo o banco. O time é colaborativo e multidisciplinar, e a vaga busca alguém com vontade de aprender.
-
-Responsabilidades
-
-Desenvolver e manter microserviços em Python
-Construir aplicações acessíveis, escaláveis, resilientes e testáveis
-Criar e manter a documentação técnica
-Aplicar Clean Code, SOLID e Design Patterns
-Atuar em ambientes AWS e em pipelines de CI/CD com GitHub Actions
-Implementar padrões de resiliência e observabilidade
-Participar das cerimônias ágeis e compartilhar conhecimento com o time
-
-Requisitos
-
-Ensino superior completo em áreas de tecnologia
-Python, AWS e SQL
-Git e GitHub
-Lógica de programação
-Interesse em práticas modernas de engenharia de software e desenvolvimento em nuvem
-
-Diferenciais
-
-Governança e plataformas de dados
-APIs e arquitetura de microserviços
-Observabilidade, monitoramento e resiliência
-Vivência em ambientes ágeis
-
-Benefícios
-
-Vale-transporte e vale-refeição ou vale-alimentação
-Plano médico (Fundação Saúde Itaú ou Unimed) e odontológico (Odontoprev ou Interodonto)
-Seguro de vida e previdência privada
-PLR, condicionada aos resultados do banco
-Descontos em produtos financeiros
-Licença maternidade e paternidade estendidas
-Auxílio creche ou babá
-Incentivo a estudos
-Wellhub ou TotalPass
-Acesso aos clubes de lazer do Itaú (Guarapiranga, Itanhaém e São Sebastião)
-
-Observações
-
-A vaga incentiva candidaturas de pessoas com deficiência.
-A página não informa salário, faixa salarial nem etapas do processo seletivo.
-Em relação ao título da vaga (“Engenharia TI Jr – Dados”), a descrição é de backend com Python, e não de engenharia de dados de pipelines. O foco é construir aplicações para o catálogo de dados.
-
-Se quiser, posso comparar seu perfil com os requisitos ou ajudar a adaptar seu currículo para esta vaga.
-
-Sources:
-
-Itaú Carreiras – ANL Engenharia TI Jr – Dados
-
-Problema: O output varia de acordo com o teste; A IA inventa dados para preencher espaços vazios ou não encontrados.
+Resultado: 10/10
+Mudanças: A primeira linha define o papel da IA e qual será a tarefa; A Tag "Vaga" separa as instruções do exemplo e dos dados a serem lidos para não confundir o modelo; Regras bem formuladas como "Responda APENAS com um JSON válido" que definem o output;
